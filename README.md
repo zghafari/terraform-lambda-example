@@ -1,4 +1,4 @@
-# Terraform Hello World Lambda using archive_file
+# Terraform hello world Lambda using archive_file
 A starting point for getting your AWS Lambda up into the cloud with Terraform!
 
 ## Introduction
