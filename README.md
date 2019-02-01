@@ -7,9 +7,9 @@ A simple Terraform example that creates a hello world Lambda with CloudWatch Log
 ## Usage
 Download the repo and play around or re-use for your projects. 
 
-### Walk-through
+## Walk-through
 http://aws-cloud.guru/creating-aws-lambdas-through-terraform-using-archive_file/
 
-### Author
+## Author
 
   [Zubin Ghafari](https://www.linkedin.com/in/zghafari/)
